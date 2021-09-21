@@ -1,0 +1,237 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.banner{
+	/*background-image: url("../images/election.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;*/
+	background-color: #e7ecec;
+	/*background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	*/
+	padding: 3rem 0rem 2.9rem 0rem;
+}
+
+.banner .icon-container{
+	padding: 2rem 0rem;
+}
+
+
+
+.banner a{
+	text-decoration: none;
+	color: #585252;
+}
+
+.banner .fa-2x {
+	font-size: 2em;
+	border: 1px solid white;
+	padding: 1rem;
+	border-radius: 15px;
+	color: white;
+	background: #848080;
+}
+
+.banner p{
+	/*color: white;*/
+	padding-top: .5rem;
+	letter-spacing: 1px;
+	font-size: 18px;
+	margin-bottom: 0px;
+}
+
+
+.banner > i{
+	/*color: white;*/
+	border: 1px solid #5a5656;
+	padding: 1rem;
+	border-radius: 5px;
+	box-shadow: -1px 0px 5px 0px rgba(238,228,228,0.75);
+	-webkit-box-shadow: 0px 0px 5px 0px rgb(238 228 228 / 75%);
+	-moz-box-shadow: -1px 0px 5px 0px rgba(238,228,228,0.75);
+}
+
+
+/*.banner i:hover{
+
+	}*/
+
+
+	.banner .fa-3x{
+		font-size: 15px;
+		border:1px solid white;
+		padding: 2rem;
+		border-radius: 50%;
+	}
+
+
+
+	.our-packages .card p{
+		
+		font-size: 14px;
+	}
+
+
+	.our-packages .card:hover{
+
+		color: white;
+		background-image: linear-gradient( 
+			90deg, rgb(38, 38, 40) 0%, rgb(89, 89, 89) 35%, rgb(112, 118, 120) 100%);
+		border: 1px solid white;
+		transition: .5s;
+	}
+
+
+	.our-packages .card:hover .btn-dark{
+
+		background-color: white;
+		color: black;
+		border: 1px solid white;
+
+	}
+
+
+
+	.our-packages .btn-dark{
+		border-radius: 0rem;
+	}
+
+
+
+	.our-services .col-md-6 > a{
+		display: flex;
+		align-items: center!important;
+		flex-direction: row;
+		text-decoration: none;
+		margin-bottom: 1rem;
+		border: 1px solid #ece9e9;
+		-webkit-box-shadow: 1px 2px 19px -1px #D6D6D6; 
+		box-shadow: 1px 2px 19px -1px #D6D6D6;
+		/*padding: .5rem 1rem;*/
+	}
+
+
+	.our-services .col-md-6 > a:hover{
+		transform: scale(1.05);
+		transition: 1s;
+	}
+
+
+	.our-services .col-md-6 > a > p{
+		color: #797878;
+	}
+
+	.our-services .col-md-6 > a > i{
+		background-color: #23232378;
+		padding: 0.5rem;
+		/* color: #545050;*/
+	}
+
+
+
+	.our-services .col-md-6 > a > i
+	{
+		color: #ffffff!important;
+	}
+
+
+	.our-services .col-md-6  > a > p {
+		margin-bottom: 0px;
+		font-size: 12px;
+		padding-left: 20px;
+	}
+
+
+	.our-offers{
+		background-color: #e9efef;
+		padding: 3rem;
+	}
+
+	/*.carousel-inner .w-100 {
+		width: 100%!important;
+		border-radius: 2rem;
+	}*/
+
+
+
+
+
+
+
+
+
+	/*media-query*/
+
+	@media (max-width: 766px){
+
+
+		.banner .fa-2x {
+	font-size: 1.3em;
+	border: 1px solid white;
+	padding: 1rem;
+	border-radius: 15px;
+	color: white;
+	background: #848080;
+}
+
+.banner p{
+	/*color: white;*/
+	padding-top: .5rem;
+	letter-spacing: 1px;
+	font-size: 15px;
+	margin-bottom: 0px;
+}
+
+
+	}
+
+
+	@media (max-width: 576px){
+
+		.our-services .col-md-6 > a{
+			align-items: center!important;
+			text-decoration: none;
+			margin-bottom: 1.5rem;
+
+		}
+
+
+		.our-services .col-md-6 > a > p {
+			margin-bottom: 0px;
+			font-size: 15px;
+			padding-left: 20px;
+		}
+
+		.garphics_content h4{
+			font-size: 1rem;
+		}
+
+		.banner .fa-2x {
+			font-size: 1em;
+			border: 1px solid white;
+			padding: 0.5rem;
+			border-radius: 6px;
+			color: white;
+			background: #848080;
+		}
+
+
+		.banner p {
+    /* color: white; */
+    padding-top: .5rem;
+    letter-spacing: 1px;
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+	}
