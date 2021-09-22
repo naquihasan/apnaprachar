@@ -20,6 +20,8 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 	<link rel="stylesheet" type="text/css" href="css/graphic_design.css">
+	<script src="js/buy_now.js"></script>
+	<script src="https://checkout.razorpay.com/v1/checkout.js"></script>
 </head>
 <body>
 
@@ -86,7 +88,7 @@
 													<p class="mb-2">10 Facebook Posters <br>
 														1 Free Profile Picture
 													</p>
-													<a href="" class="btn btn-dark btn-sm">BUY NOW</a>
+													<a class="btn btn-dark btn-sm" onclick="buy_now(999);">BUY NOW</a>
 												</div>
 											</div>
 										</div>
@@ -97,7 +99,7 @@
 													<p class="mb-2">20 Facebook Posters <br>
 													1 Free Profile Picture</p>
 
-													<a href="" class="btn btn-dark btn-sm">BUY NOW</a>
+													<a class="btn btn-dark btn-sm" onclick="buy_now(1999);">BUY NOW</a>
 												</div>
 											</div>
 										</div>
@@ -106,7 +108,7 @@
 												<div class="card-body text-center">
 													<h5>2999/-</h5>
 													<p class="mb-2">30 Facebook Posters <br>1 Free Profile Picture</p>
-													<a href="" class="btn btn-dark btn-sm">BUY NOW</a>
+													<a class="btn btn-dark btn-sm" onclick="buy_now(2999);">BUY NOW</a>
 												</div>
 											</div>
 										</div>
@@ -115,7 +117,7 @@
 												<div class="card-body text-center">
 													<h5>4999/-</h5>
 													<p class="mb-2">40 Facebook Posters <br>1 Free Profile Picture</p>
-													<a href="" class="btn btn-dark btn-sm">BUY NOW</a>
+													<a class="btn btn-dark btn-sm" onclick="buy_now(4999);">BUY NOW</a>
 												</div>
 											</div>
 										</div>
@@ -753,6 +755,77 @@
 		</div>
 	</section>
 
+	
+    <!-- Modal -->
+    <div class="modal fade" id="edit_data" tabindex="-1" role="dialog" aria-labelledby="edit_dataLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">User Form </h5>
+                
+            </div>
+            <div class="modal-body">
+            <form class="form-horizontal form-material">
+            
+            
+
+            <div class="form-group mb-4">
+                <label class="col-md-12 p-0">Full Name</label>
+                <div class="col-md-12 border-bottom p-0">
+                    <input type="text" class="form-control p-0 border-0" id="fname" name="fname" required>
+                </div>
+            </div>
+            
+            
+            <div class="form-group mb-4">
+                <label class="col-md-12 p-0">Your City</label>
+                <div class="col-md-12 border-bottom p-0">
+                    <input type="text" class="form-control p-0 border-0" name="city" id="address" required>
+                </div>
+            </div>
+			<div class="form-group mb-4">
+                <label class="col-md-12 p-0">Your Email</label>
+                <div class="col-md-12 border-bottom p-0">
+                    <input type="text" class="form-control p-0 border-0" name="email" id="email" required>
+                </div>
+            </div>
+            
+            
+            
+            <div class="form-group mb-4">
+                <label class="col-md-12 p-0">Mobile Number</label>
+                <div class="col-md-12 border-bottom p-0">
+                    <input type="tel" class="form-control p-0 border-0" id="mobile" required>
+                </div>
+            </div>
+			<div class="form-group mb-4">
+                <label class="col-md-12 p-0">Package Price</label>
+                <div class="col-md-12 border-bottom p-0">
+                    <input type="number" class="form-control p-0 border-0" id="package_price" readonly>
+                </div>
+            </div>
+
+            
+            <div class="form-group mb-4">
+            <div class="col-sm-12">
+                <button class="btn btn-success" type="button" onclick="payment();">Submit</button>
+            </div>
+            </div>
+            <p></p>
+            </form>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="close_modal('edit_data')">Close</button>
+                
+            </div>
+            </div>
+        </div>
+        </div>
+
+
+
+
 
 	<?php include_once 'inc/footer.php'; ?>
 
@@ -789,6 +862,6 @@
             }
         }
     </script>
-
+	<script src="js/payment.js"></script>
 </body>
 </html>
