@@ -10,12 +10,12 @@
     color: #fdf1f1;
     text-decoration: none;
     position: fixed;
-    background-color: black;
+    background-color: #389df3;
     bottom: 53px;
     right: 54px;
     display: none;
     padding: .5rem .8rem;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 

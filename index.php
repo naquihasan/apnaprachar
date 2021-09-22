@@ -132,7 +132,7 @@
 						<p>Contact Us Form</p>
 						<p>Social Media Integration</p>
 						<p>5 Revision</p>
-						<a href="" class="btn btn-dark mt-2">BUY NOW</a>
+						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
 					</div>
 				</div>
 			</div>
@@ -150,7 +150,7 @@
 						<p>Contact Us Form</p>
 						<p>Social Media Integration</p>
 						<p>5 Revision</p>
-						<a href="" class="btn btn-dark mt-2">BUY NOW</a>
+						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
 					</div>
 				</div>
 			</div>
@@ -168,7 +168,7 @@
 						<p>Contact Us Form</p>
 						<p>Social Media Integration</p>
 						<p>5 Revision</p>
-						<a href="" class="btn btn-dark mt-2">BUY NOW</a>
+						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
 					</div>
 				</div>
 			</div>
@@ -187,7 +187,7 @@
 						<p>Contact Us Form</p>
 						<p>Social Media Integration</p>
 						<p>7 Revision</p>
-						<a href="" class="btn btn-dark mt-2">BUY NOW</a>
+						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
 					</div>
 				</div>
 			</div>
@@ -203,7 +203,7 @@
 					<div class="card-body ">
 						<p>30 Facebook Posters</p>
 						
-						<a href="" class="btn btn-dark mt-2">BUY NOW</a>
+						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
 					</div>
 				</div>
 			</div>
@@ -218,7 +218,7 @@
 						<p>50 Facebook Posters</p>
 						<p>Wth Insagram & Twitter Sizes</p>
 						<p>Free Profile Picture & Cover Picutre (Insatgram,Facebook and Twitter)</p>
-						<a href="" class="btn btn-dark mt-2">BUY NOW</a>
+						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
 					</div>
 				</div>
 			</div>
@@ -236,7 +236,7 @@
 						<p>Login</p>
 						<p>Signup</p>
 						<p>Contact Us Form</p>
-						<a href="" class="btn btn-dark mt-2">BUY NOW</a>
+						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
 					</div>
 				</div>
 			</div>
@@ -255,7 +255,7 @@
 						<p>Contact Us Form</p>
 						<p>Social Media Integration</p>
 						<p>7 Revision</p>
-						<a href="" class="btn btn-dark mt-2">BUY NOW</a>
+						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
 					</div>
 				</div>
 			</div>
@@ -263,7 +263,7 @@
 
 		<div class="row">
 			<div class="col-md text-center mt-4">
-				<a href="package.php" class="btn btn-dark">MORE PACKAGES</a>
+				<a href="package.php" class="btn btn-primary">MORE PACKAGES</a>
 			</div>
 		</div>
 	</div>
