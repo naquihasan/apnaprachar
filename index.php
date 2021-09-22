@@ -21,6 +21,7 @@
 
 
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script src="js/buy_now.js"></script>
 </head>
 <body>
 
@@ -203,7 +204,9 @@
 					<div class="card-body ">
 						<p>30 Facebook Posters</p>
 						
+
 						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
+
 					</div>
 				</div>
 			</div>
@@ -219,6 +222,7 @@
 						<p>Wth Insagram & Twitter Sizes</p>
 						<p>Free Profile Picture & Cover Picutre (Insatgram,Facebook and Twitter)</p>
 						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
+
 					</div>
 				</div>
 			</div>
@@ -236,7 +240,9 @@
 						<p>Login</p>
 						<p>Signup</p>
 						<p>Contact Us Form</p>
+
 						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
+
 					</div>
 				</div>
 			</div>
@@ -255,7 +261,9 @@
 						<p>Contact Us Form</p>
 						<p>Social Media Integration</p>
 						<p>7 Revision</p>
+
 						<a href="" class="btn btn-primary mt-2">BUY NOW</a>
+
 					</div>
 				</div>
 			</div>
@@ -503,6 +511,67 @@
 		</div>
 	</div>
 </section> -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="edit_data" tabindex="-1" role="dialog" aria-labelledby="edit_dataLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Update </h5>
+                
+            </div>
+            <div class="modal-body">
+            <form class="form-horizontal form-material" action="" method="post">
+            
+            
+
+            <div class="form-group mb-4">
+                <label class="col-md-12 p-0">Full Name</label>
+                <div class="col-md-12 border-bottom p-0">
+                    <input type="text" class="form-control p-0 border-0" name="fname" required>
+                </div>
+            </div>
+            
+            
+            <div class="form-group mb-4">
+                <label class="col-md-12 p-0">Your City</label>
+                <div class="col-md-12 border-bottom p-0">
+                    <input type="text" class="form-control p-0 border-0" name="city" required>
+                </div>
+            </div>
+            
+            
+            
+            <div class="form-group mb-4">
+                <label class="col-md-12 p-0">Mobile Number</label>
+                <div class="col-md-12 border-bottom p-0">
+                    <input type="tel" class="form-control p-0 border-0" required>
+                </div>
+            </div>
+			<div class="form-group mb-4">
+                <label class="col-md-12 p-0">Package Price</label>
+                <div class="col-md-12 border-bottom p-0">
+                    <input type="number" class="form-control p-0 border-0" id="package_price" readonly>
+                </div>
+            </div>
+
+            
+            <div class="form-group mb-4">
+            <div class="col-sm-12">
+                <button class="btn btn-success" type="submit">Submit</button>
+            </div>
+            </div>
+            <p></p>
+            </form>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="close_modal('edit_data')">Close</button>
+                
+            </div>
+            </div>
+        </div>
+        </div>
 
 
 
