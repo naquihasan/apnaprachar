@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6{
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;*/
-	background-color: #e7ecec;
+	/*background-color: #e7ecec;*/
 	/*background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -37,10 +37,10 @@ h1,h2,h3,h4,h5,h6{
 .banner .fa-2x {
 	font-size: 2em;
 	border: 1px solid white;
-	padding: 1rem;
-	border-radius: 15px;
+	padding: 1rem 2.2rem;
+	border-radius: 4px;
 	color: white;
-	background: #848080;
+	background: #2aca53;
 }
 
 .banner p{
@@ -179,10 +179,10 @@ h1,h2,h3,h4,h5,h6{
 		.banner .fa-2x {
 	font-size: 1.3em;
 	border: 1px solid white;
-	padding: 1rem;
-	border-radius: 15px;
+	padding: 1rem 2.2rem;
+	border-radius: 4px;
 	color: white;
-	background: #848080;
+	
 }
 
 .banner p{
@@ -218,12 +218,12 @@ h1,h2,h3,h4,h5,h6{
 		}
 
 		.banner .fa-2x {
-			font-size: 1em;
+			font-size: 1.5em;
 			border: 1px solid white;
-			padding: 0.5rem;
-			border-radius: 6px;
+			padding: .8rem 2rem;
+			border-radius: 4px;
 			color: white;
-			background: #848080;
+			
 		}
 
 
