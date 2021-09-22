@@ -286,25 +286,25 @@
 		<h2 class="text-center">Our Services</h2>
 		<p class="text-center pb-3">We Provides Best Services At Resionable Price</p>
 		<div class="row">
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Facebook Graphics Design</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Instagram Graphics Design</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Twitter Graphic Design</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Youtube Grapgic Deign</p>
@@ -315,25 +315,25 @@
 		</div>
 
 		<div class="row">
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Documentary Video</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Photoshoot Video</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Shorts Video</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Bulk Whatsapp Messages</p>
@@ -342,25 +342,25 @@
 		</div>
 
 		<div class="row">
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Bulk Voice Messages</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Bulk Voice Calls</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Facebook Advertisment</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Instagram Advertisment</p>
@@ -369,25 +369,25 @@
 			
 		</div>
 		<div class="row">
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Youtube Advertisment</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>News Channel Ad</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Celebrity Shorts</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Survey For Your Area</p>
@@ -397,26 +397,26 @@
 			
 		</div>
 		<div class="row">
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Plane Election Strategy</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Political Resume</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Crowd Management</p>
 				</a>
 			</div>
 
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Design Slogan</p>
@@ -427,26 +427,26 @@
 
 		<div class="row">
 			
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Dedicated Call Center</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Make Your Own Interview</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Booth Level Training</p>
 				</a>
 			</div>
 
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Nukkar Natak</p>
@@ -456,20 +456,20 @@
 		</div>
 		<div class="row">
 			
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Print Banner</p>
 				</a>
 			</div>
 
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Election Material</p>
 				</a>
 			</div>
-			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6">
+			<div class="col-lg-3 col-xl-3 col-md-6 col-sm-6 col-6">
 				<a href="#">
 					<i class="fas fa-film fa-2x"></i>	
 					<p>Web & App Develpment</p>
